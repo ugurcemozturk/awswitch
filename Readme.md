@@ -13,8 +13,6 @@ There will be an additional AWS profile after first usage of the **awswitch**. I
 
 
 # Usage
-
-Simply import your new IAM user credentials from **the latest downloaded CSV** to AWS config file, assumed at home folder, **~/.aws/credentials**
  
 ```
 awswitch profile-1
